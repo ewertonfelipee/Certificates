@@ -1,2 +1,2 @@
 # Certificates
-Repository for my courses certificates
+Repository for courses certificates
